@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sb09ii
-- 👀 I’m interested in machine learning and recreating new models based in Ai
-- 🌱 I’m currently learning about new techs in ML
-- 💞️ I’m currently working on MLOps
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning about LLM
+- 💞️ I’m currently working on RAG
 - 📫 You can contact me on email->> sayeribose27@gmail.com 
 - 😄 Pronouns: she/her
 
